@@ -1,0 +1,13 @@
+https://reference.arduino.cc/reference/en/language/functions/time/millis/
+
+https://forum.arduino.cc/t/will-the-final-release-of-arduino-ide-2-0-support-multiple-cursor-editing/873493/4
+
+https://www.ctrlbizde.com/index.php/egitimler/arduino-programlama/item/632-arduino-da-rastgele-sayi-uretme-random-randomseed-arduino-programlama-11
+
+https://www.devrelerim.com/2022/11/arduino-oled-ekran-kullanimi-ssd1306.html
+
+https://akademi.robolinkmarket.com/arduino-ile-i2c-oled-ekran-kullanimi/?gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV8ScJBndHwX37OSTNU_lf1KPdsLN40j3uAHcxWwbuaYWd94m5Ykg3QaAgyrEALw_wcB
+
+https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
+
+https://www.youtube.com/watch?v=UmYiHTOz-5k
